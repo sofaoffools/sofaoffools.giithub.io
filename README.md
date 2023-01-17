@@ -1,2 +1,2 @@
-# sofaoffools.giithub.io
+# sofaoffools.github.io
 Sofa of Fools site
